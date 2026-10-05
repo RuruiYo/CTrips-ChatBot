@@ -1,0 +1,1085 @@
+{
+  "nota": "Precios de referencia en dólares (USD), aproximados. Sirven para planificar, no son tarifas oficiales.",
+  "origen": "San Salvador",
+  "destinos": [
+    {
+      "id": "el_tunco",
+      "nombre": "El Tunco",
+      "pais": "El Salvador",
+      "tipo": "playa",
+      "alias": [
+        "el tunco",
+        "tunco",
+        "la libertad",
+        "surf city"
+      ],
+      "resumen": "surf, atardeceres y ambiente joven",
+      "descripcion": "Playa de La Libertad famosa por sus olas, su roca en forma de cerdo y sus atardeceres. Tiene restaurantes, hostales y vida nocturna a poca distancia de la capital.",
+      "mejor_epoca": "noviembre a abril (época seca); las mejores olas llegan de marzo a octubre",
+      "hospedaje": [
+        {
+          "nivel": "economico",
+          "opcion": "Hostal con dormitorio compartido",
+          "precio": 15
+        },
+        {
+          "nivel": "medio",
+          "opcion": "Hotel pequeño con piscina y aire acondicionado",
+          "precio": 55
+        },
+        {
+          "nivel": "confort",
+          "opcion": "Hotel frente al mar con desayuno",
+          "precio": 120
+        }
+      ],
+      "transporte": {
+        "como_llegar": "Bus ruta 102 de San Salvador al Puerto de La Libertad y luego bus local hacia El Tunco. También hay servicio por aplicación o shuttle.",
+        "tiempo": "1 hora a 1 hora y media",
+        "costo_ida_vuelta": 4
+      },
+      "actividades": [
+        {
+          "nombre": "Clase de surf para principiantes",
+          "precio": 20
+        },
+        {
+          "nombre": "Caminata a las cascadas de Tamanique con guía",
+          "precio": 10
+        },
+        {
+          "nombre": "Mariscos en el malecón de La Libertad",
+          "precio": 10
+        },
+        {
+          "nombre": "Atardecer en la playa",
+          "precio": 0
+        }
+      ],
+      "comida_dia": {
+        "economico": 10,
+        "medio": 20,
+        "confort": 40
+      },
+      "actividades_dia": 10
+    },
+    {
+      "id": "el_cuco",
+      "nombre": "El Cuco",
+      "pais": "El Salvador",
+      "tipo": "playa",
+      "alias": [
+        "el cuco",
+        "cuco",
+        "las flores",
+        "playa las flores"
+      ],
+      "resumen": "playa amplia y tranquila en el oriente",
+      "descripcion": "Playa extensa de arena oscura en San Miguel, más tranquila que las del centro del país. Muy cerca está Punta Las Flores, conocida por sus olas largas.",
+      "mejor_epoca": "noviembre a abril (época seca)",
+      "hospedaje": [
+        {
+          "nivel": "economico",
+          "opcion": "Hospedaje familiar cerca de la playa",
+          "precio": 20
+        },
+        {
+          "nivel": "medio",
+          "opcion": "Hotel con piscina frente al mar",
+          "precio": 60
+        },
+        {
+          "nivel": "confort",
+          "opcion": "Resort de playa con desayuno",
+          "precio": 130
+        }
+      ],
+      "transporte": {
+        "como_llegar": "Bus ruta 301 de San Salvador a San Miguel y luego ruta 320 hacia El Cuco. En carro se llega por la carretera del Litoral.",
+        "tiempo": "4 a 5 horas en bus, unas 3 horas en carro",
+        "costo_ida_vuelta": 12
+      },
+      "actividades": [
+        {
+          "nombre": "Clase de surf en Punta Las Flores",
+          "precio": 25
+        },
+        {
+          "nombre": "Paseo a caballo por la playa",
+          "precio": 10
+        },
+        {
+          "nombre": "Mariscos en los ranchos de la playa",
+          "precio": 10
+        },
+        {
+          "nombre": "Caminata y atardecer en la playa",
+          "precio": 0
+        }
+      ],
+      "comida_dia": {
+        "economico": 10,
+        "medio": 20,
+        "confort": 40
+      },
+      "actividades_dia": 10
+    },
+    {
+      "id": "ruta_flores",
+      "nombre": "Ruta de las Flores",
+      "pais": "El Salvador",
+      "tipo": "montana",
+      "alias": [
+        "ruta de las flores",
+        "ruta flores",
+        "juayua",
+        "ataco",
+        "apaneca"
+      ],
+      "resumen": "pueblos cafetaleros, clima fresco y comida típica",
+      "descripcion": "Recorrido por pueblos de montaña como Juayúa, Apaneca y Ataco, entre cafetales y murales. Los fines de semana hay feria gastronómica en Juayúa.",
+      "mejor_epoca": "noviembre a febrero, cuando hay flores y cosecha de café",
+      "hospedaje": [
+        {
+          "nivel": "economico",
+          "opcion": "Hostal en Juayúa o Ataco",
+          "precio": 15
+        },
+        {
+          "nivel": "medio",
+          "opcion": "Hotel colonial con desayuno",
+          "precio": 50
+        },
+        {
+          "nivel": "confort",
+          "opcion": "Hotel de montaña con vista a los cafetales",
+          "precio": 110
+        }
+      ],
+      "transporte": {
+        "como_llegar": "Bus ruta 205 de San Salvador a Sonsonate y luego ruta 249, que pasa por Juayúa, Apaneca y Ataco.",
+        "tiempo": "2 a 2 horas y media",
+        "costo_ida_vuelta": 6
+      },
+      "actividades": [
+        {
+          "nombre": "Feria gastronómica de Juayúa (fin de semana)",
+          "precio": 8
+        },
+        {
+          "nombre": "Tour de café en una finca",
+          "precio": 15
+        },
+        {
+          "nombre": "Canopy en Apaneca",
+          "precio": 35
+        },
+        {
+          "nombre": "Caminata a los Chorros de la Calera con guía",
+          "precio": 10
+        }
+      ],
+      "comida_dia": {
+        "economico": 10,
+        "medio": 20,
+        "confort": 40
+      },
+      "actividades_dia": 12
+    },
+    {
+      "id": "volcan_santa_ana",
+      "nombre": "Volcán de Santa Ana",
+      "pais": "El Salvador",
+      "tipo": "montana",
+      "alias": [
+        "volcan de santa ana",
+        "volcan santa ana",
+        "cerro verde",
+        "ilamatepec",
+        "coatepeque"
+      ],
+      "resumen": "caminata al cráter con laguna turquesa",
+      "descripcion": "El volcán más alto de El Salvador. La caminata guiada sale del Parque Cerro Verde y llega a un cráter con laguna color turquesa y vista al lago de Coatepeque.",
+      "mejor_epoca": "noviembre a abril, con cielo despejado",
+      "hospedaje": [
+        {
+          "nivel": "economico",
+          "opcion": "Hostal en Santa Ana",
+          "precio": 15
+        },
+        {
+          "nivel": "medio",
+          "opcion": "Hotel frente al lago de Coatepeque",
+          "precio": 55
+        },
+        {
+          "nivel": "confort",
+          "opcion": "Casa o hotel con muelle en Coatepeque",
+          "precio": 120
+        }
+      ],
+      "transporte": {
+        "como_llegar": "Bus ruta 201 de San Salvador a Santa Ana y luego ruta 248 hacia el Cerro Verde. Conviene salir temprano porque la caminata guiada sale por la mañana.",
+        "tiempo": "unas 3 horas en bus",
+        "costo_ida_vuelta": 6
+      },
+      "actividades": [
+        {
+          "nombre": "Ascenso guiado al cráter (unas 4 horas ida y vuelta)",
+          "precio": 10
+        },
+        {
+          "nombre": "Miradores del Parque Cerro Verde",
+          "precio": 3
+        },
+        {
+          "nombre": "Almuerzo frente al lago de Coatepeque",
+          "precio": 15
+        },
+        {
+          "nombre": "Kayak en el lago de Coatepeque",
+          "precio": 10
+        }
+      ],
+      "comida_dia": {
+        "economico": 10,
+        "medio": 20,
+        "confort": 40
+      },
+      "actividades_dia": 12
+    },
+    {
+      "id": "suchitoto",
+      "nombre": "Suchitoto",
+      "pais": "El Salvador",
+      "tipo": "ciudad",
+      "alias": [
+        "suchitoto",
+        "suchitlan"
+      ],
+      "resumen": "pueblo colonial con calles empedradas",
+      "descripcion": "Ciudad colonial de Cuscatlán con calles empedradas, la iglesia Santa Lucía, galerías de arte y vista al lago Suchitlán.",
+      "mejor_epoca": "todo el año; noviembre a abril es más seco",
+      "hospedaje": [
+        {
+          "nivel": "economico",
+          "opcion": "Hostal en el centro histórico",
+          "precio": 20
+        },
+        {
+          "nivel": "medio",
+          "opcion": "Hotel colonial con patio interior",
+          "precio": 60
+        },
+        {
+          "nivel": "confort",
+          "opcion": "Hotel boutique con vista al lago",
+          "precio": 120
+        }
+      ],
+      "transporte": {
+        "como_llegar": "Bus ruta 129 desde la Terminal de Oriente de San Salvador.",
+        "tiempo": "1 hora y media",
+        "costo_ida_vuelta": 3
+      },
+      "actividades": [
+        {
+          "nombre": "Recorrido por el centro histórico y la iglesia Santa Lucía",
+          "precio": 0
+        },
+        {
+          "nombre": "Paseo en lancha por el lago Suchitlán",
+          "precio": 15
+        },
+        {
+          "nombre": "Taller de teñido con añil",
+          "precio": 15
+        },
+        {
+          "nombre": "Cascada Los Tercios",
+          "precio": 3
+        }
+      ],
+      "comida_dia": {
+        "economico": 10,
+        "medio": 20,
+        "confort": 40
+      },
+      "actividades_dia": 10
+    },
+    {
+      "id": "santa_ana",
+      "nombre": "Santa Ana",
+      "pais": "El Salvador",
+      "tipo": "ciudad",
+      "alias": [
+        "santa ana",
+        "ciudad de santa ana",
+        "tazumal"
+      ],
+      "resumen": "catedral neogótica, teatro y ruinas mayas cerca",
+      "descripcion": "La segunda ciudad del país, con una catedral neogótica, el Teatro de Santa Ana y un centro histórico caminable. A pocos minutos está el sitio arqueológico Tazumal.",
+      "mejor_epoca": "todo el año; julio tiene las fiestas patronales",
+      "hospedaje": [
+        {
+          "nivel": "economico",
+          "opcion": "Hostal para mochileros",
+          "precio": 15
+        },
+        {
+          "nivel": "medio",
+          "opcion": "Hotel en el centro con desayuno",
+          "precio": 50
+        },
+        {
+          "nivel": "confort",
+          "opcion": "Hotel boutique en casa antigua",
+          "precio": 100
+        }
+      ],
+      "transporte": {
+        "como_llegar": "Bus ruta 201 desde la Terminal de Occidente de San Salvador.",
+        "tiempo": "1 hora y media",
+        "costo_ida_vuelta": 4
+      },
+      "actividades": [
+        {
+          "nombre": "Catedral y Teatro de Santa Ana",
+          "precio": 3
+        },
+        {
+          "nombre": "Sitio arqueológico Tazumal en Chalchuapa",
+          "precio": 5
+        },
+        {
+          "nombre": "Yuca y pupusas en el centro",
+          "precio": 5
+        },
+        {
+          "nombre": "Tarde en el lago de Coatepeque",
+          "precio": 10
+        }
+      ],
+      "comida_dia": {
+        "economico": 10,
+        "medio": 20,
+        "confort": 40
+      },
+      "actividades_dia": 8
+    },
+    {
+      "id": "monterrico",
+      "nombre": "Monterrico",
+      "pais": "Guatemala",
+      "tipo": "playa",
+      "alias": [
+        "monterrico"
+      ],
+      "resumen": "arena negra volcánica y tortugas marinas",
+      "descripcion": "Playa del Pacífico guatemalteco con arena negra de origen volcánico, manglares y un tortugario donde se liberan tortugas marinas.",
+      "mejor_epoca": "noviembre a abril; la liberación de tortugas es de septiembre a enero",
+      "hospedaje": [
+        {
+          "nivel": "economico",
+          "opcion": "Hostal con hamacas",
+          "precio": 20
+        },
+        {
+          "nivel": "medio",
+          "opcion": "Hotel con piscina a pasos de la playa",
+          "precio": 55
+        },
+        {
+          "nivel": "confort",
+          "opcion": "Hotel frente al mar con desayuno",
+          "precio": 110
+        }
+      ],
+      "transporte": {
+        "como_llegar": "En carro o shuttle por la frontera La Hachadura y la carretera del Pacífico de Guatemala.",
+        "tiempo": "4 a 5 horas",
+        "costo_ida_vuelta": 70
+      },
+      "actividades": [
+        {
+          "nombre": "Liberación de tortugas en el tortugario (en temporada)",
+          "precio": 5
+        },
+        {
+          "nombre": "Recorrido en lancha por el manglar al amanecer",
+          "precio": 10
+        },
+        {
+          "nombre": "Pescado y mariscos frente al mar",
+          "precio": 12
+        },
+        {
+          "nombre": "Caminata por la playa de arena negra",
+          "precio": 0
+        }
+      ],
+      "comida_dia": {
+        "economico": 12,
+        "medio": 25,
+        "confort": 45
+      },
+      "actividades_dia": 10
+    },
+    {
+      "id": "atitlan",
+      "nombre": "Lago de Atitlán",
+      "pais": "Guatemala",
+      "tipo": "montana",
+      "alias": [
+        "lago de atitlan",
+        "atitlan",
+        "panajachel",
+        "san pedro la laguna"
+      ],
+      "resumen": "lago entre tres volcanes y pueblos mayas",
+      "descripcion": "Lago del altiplano guatemalteco rodeado por los volcanes Atitlán, Tolimán y San Pedro. Desde Panajachel salen lanchas hacia pueblos mayas como San Juan y Santiago.",
+      "mejor_epoca": "noviembre a abril (época seca)",
+      "hospedaje": [
+        {
+          "nivel": "economico",
+          "opcion": "Hostal en Panajachel o San Pedro",
+          "precio": 15
+        },
+        {
+          "nivel": "medio",
+          "opcion": "Hotel con vista al lago",
+          "precio": 55
+        },
+        {
+          "nivel": "confort",
+          "opcion": "Hotel con jardín y muelle propio",
+          "precio": 140
+        }
+      ],
+      "transporte": {
+        "como_llegar": "Shuttle turístico desde San Salvador con parada en Antigua Guatemala, o bus internacional a Ciudad de Guatemala y luego shuttle a Panajachel.",
+        "tiempo": "8 horas aproximadamente",
+        "costo_ida_vuelta": 100
+      },
+      "actividades": [
+        {
+          "nombre": "Recorrido en lancha por los pueblos del lago",
+          "precio": 15
+        },
+        {
+          "nombre": "Amanecer en el mirador Rostro Maya",
+          "precio": 20
+        },
+        {
+          "nombre": "Kayak en el lago",
+          "precio": 10
+        },
+        {
+          "nombre": "Mercado de Chichicastenango (jueves y domingos)",
+          "precio": 20
+        }
+      ],
+      "comida_dia": {
+        "economico": 12,
+        "medio": 25,
+        "confort": 45
+      },
+      "actividades_dia": 15
+    },
+    {
+      "id": "antigua",
+      "nombre": "Antigua Guatemala",
+      "pais": "Guatemala",
+      "tipo": "ciudad",
+      "alias": [
+        "antigua guatemala",
+        "la antigua",
+        "antigua"
+      ],
+      "resumen": "ciudad colonial Patrimonio de la Humanidad",
+      "descripcion": "Ciudad colonial rodeada de volcanes, declarada Patrimonio de la Humanidad por la UNESCO. Destacan el Arco de Santa Catalina, sus iglesias y sus cafés.",
+      "mejor_epoca": "noviembre a abril; en Semana Santa hay procesiones y alfombras",
+      "hospedaje": [
+        {
+          "nivel": "economico",
+          "opcion": "Hostal en casa colonial",
+          "precio": 15
+        },
+        {
+          "nivel": "medio",
+          "opcion": "Hotel colonial con patio y desayuno",
+          "precio": 60
+        },
+        {
+          "nivel": "confort",
+          "opcion": "Hotel boutique en antiguo convento",
+          "precio": 150
+        }
+      ],
+      "transporte": {
+        "como_llegar": "Shuttle turístico directo desde San Salvador, o bus internacional a Ciudad de Guatemala y luego shuttle de una hora.",
+        "tiempo": "5 a 6 horas",
+        "costo_ida_vuelta": 70
+      },
+      "actividades": [
+        {
+          "nombre": "Centro histórico y Arco de Santa Catalina",
+          "precio": 0
+        },
+        {
+          "nombre": "Ascenso al volcán Pacaya con guía",
+          "precio": 30
+        },
+        {
+          "nombre": "Tour de café en una finca",
+          "precio": 20
+        },
+        {
+          "nombre": "Mirador del Cerro de la Cruz",
+          "precio": 0
+        }
+      ],
+      "comida_dia": {
+        "economico": 12,
+        "medio": 25,
+        "confort": 45
+      },
+      "actividades_dia": 15
+    },
+    {
+      "id": "roatan",
+      "nombre": "Roatán",
+      "pais": "Honduras",
+      "tipo": "playa",
+      "alias": [
+        "roatan",
+        "islas de la bahia",
+        "west bay"
+      ],
+      "resumen": "isla caribeña con arrecife de coral",
+      "descripcion": "Isla del Caribe hondureño junto al arrecife mesoamericano. Tiene playas de arena blanca como West Bay y es uno de los sitios más conocidos de la región para bucear.",
+      "mejor_epoca": "febrero a agosto, con menos lluvia",
+      "hospedaje": [
+        {
+          "nivel": "economico",
+          "opcion": "Hostal en West End",
+          "precio": 30
+        },
+        {
+          "nivel": "medio",
+          "opcion": "Hotel con piscina cerca de la playa",
+          "precio": 90
+        },
+        {
+          "nivel": "confort",
+          "opcion": "Resort frente a West Bay",
+          "precio": 200
+        }
+      ],
+      "transporte": {
+        "como_llegar": "Vuelo desde San Salvador (directo o con escala), o bus hasta La Ceiba y ferry de hora y media a la isla.",
+        "tiempo": "1 a 3 horas en avión; más de un día por tierra y ferry",
+        "costo_ida_vuelta": 320
+      },
+      "actividades": [
+        {
+          "nombre": "Snorkel en el arrecife",
+          "precio": 30
+        },
+        {
+          "nombre": "Bautizo de buceo con instructor",
+          "precio": 100
+        },
+        {
+          "nombre": "Canopy sobre la selva",
+          "precio": 50
+        },
+        {
+          "nombre": "Día de playa en West Bay",
+          "precio": 0
+        }
+      ],
+      "comida_dia": {
+        "economico": 20,
+        "medio": 40,
+        "confort": 70
+      },
+      "actividades_dia": 30
+    },
+    {
+      "id": "celaque",
+      "nombre": "Gracias y Parque Celaque",
+      "pais": "Honduras",
+      "tipo": "montana",
+      "alias": [
+        "parque celaque",
+        "celaque",
+        "gracias lempira",
+        "gracias honduras"
+      ],
+      "resumen": "bosque nuboso y el punto más alto de Honduras",
+      "descripcion": "El Parque Nacional Celaque protege un bosque nuboso y el Cerro Las Minas, el punto más alto de Honduras. La base es Gracias, un pueblo colonial con aguas termales.",
+      "mejor_epoca": "noviembre a abril (época seca)",
+      "hospedaje": [
+        {
+          "nivel": "economico",
+          "opcion": "Hospedaje familiar en Gracias",
+          "precio": 15
+        },
+        {
+          "nivel": "medio",
+          "opcion": "Hotel colonial con desayuno",
+          "precio": 45
+        },
+        {
+          "nivel": "confort",
+          "opcion": "Hotel de montaña con vista al valle",
+          "precio": 90
+        }
+      ],
+      "transporte": {
+        "como_llegar": "En bus o carro por la frontera El Poy, pasando por Nueva Ocotepeque y Santa Rosa de Copán hasta Gracias.",
+        "tiempo": "5 a 6 horas",
+        "costo_ida_vuelta": 50
+      },
+      "actividades": [
+        {
+          "nombre": "Senderismo en el Parque Nacional Celaque",
+          "precio": 8
+        },
+        {
+          "nombre": "Aguas termales de Gracias",
+          "precio": 5
+        },
+        {
+          "nombre": "Fuerte San Cristóbal y centro colonial",
+          "precio": 0
+        },
+        {
+          "nombre": "Visita a pueblos lencas como La Campa",
+          "precio": 10
+        }
+      ],
+      "comida_dia": {
+        "economico": 12,
+        "medio": 22,
+        "confort": 40
+      },
+      "actividades_dia": 8
+    },
+    {
+      "id": "copan",
+      "nombre": "Copán Ruinas",
+      "pais": "Honduras",
+      "tipo": "ciudad",
+      "alias": [
+        "copan ruinas",
+        "ruinas de copan",
+        "copan"
+      ],
+      "resumen": "pueblo empedrado junto a ruinas mayas",
+      "descripcion": "Pueblo empedrado a un kilómetro del sitio arqueológico maya de Copán, Patrimonio de la Humanidad, famoso por sus estelas y su escalinata de jeroglíficos.",
+      "mejor_epoca": "noviembre a abril (época seca)",
+      "hospedaje": [
+        {
+          "nivel": "economico",
+          "opcion": "Hostal cerca del parque central",
+          "precio": 15
+        },
+        {
+          "nivel": "medio",
+          "opcion": "Hotel colonial con piscina",
+          "precio": 50
+        },
+        {
+          "nivel": "confort",
+          "opcion": "Hotel boutique con desayuno",
+          "precio": 110
+        }
+      ],
+      "transporte": {
+        "como_llegar": "Shuttle turístico desde San Salvador o Santa Ana, cruzando por Guatemala hasta la frontera El Florido.",
+        "tiempo": "5 a 6 horas",
+        "costo_ida_vuelta": 80
+      },
+      "actividades": [
+        {
+          "nombre": "Parque arqueológico de Copán",
+          "precio": 20
+        },
+        {
+          "nombre": "Macaw Mountain, parque de guacamayas",
+          "precio": 10
+        },
+        {
+          "nombre": "Aguas termales en la montaña",
+          "precio": 25
+        },
+        {
+          "nombre": "Museo de escultura maya",
+          "precio": 10
+        }
+      ],
+      "comida_dia": {
+        "economico": 12,
+        "medio": 22,
+        "confort": 40
+      },
+      "actividades_dia": 15
+    },
+    {
+      "id": "san_juan_del_sur",
+      "nombre": "San Juan del Sur",
+      "pais": "Nicaragua",
+      "tipo": "playa",
+      "alias": [
+        "san juan del sur",
+        "playa maderas"
+      ],
+      "resumen": "bahía en media luna y playas de surf",
+      "descripcion": "Pueblo costero del Pacífico de Nicaragua con una bahía en forma de media luna, el mirador del Cristo de la Misericordia y playas de surf como Maderas.",
+      "mejor_epoca": "noviembre a abril (época seca)",
+      "hospedaje": [
+        {
+          "nivel": "economico",
+          "opcion": "Hostal cerca de la bahía",
+          "precio": 15
+        },
+        {
+          "nivel": "medio",
+          "opcion": "Hotel con piscina y aire acondicionado",
+          "precio": 55
+        },
+        {
+          "nivel": "confort",
+          "opcion": "Hotel en la colina con vista al mar",
+          "precio": 130
+        }
+      ],
+      "transporte": {
+        "como_llegar": "Bus internacional de San Salvador a Managua y luego bus o shuttle hacia Rivas y San Juan del Sur. También se puede volar a Managua.",
+        "tiempo": "14 horas por tierra aproximadamente",
+        "costo_ida_vuelta": 110
+      },
+      "actividades": [
+        {
+          "nombre": "Clase de surf en playa Maderas",
+          "precio": 25
+        },
+        {
+          "nombre": "Mirador del Cristo de la Misericordia",
+          "precio": 2
+        },
+        {
+          "nombre": "Paseo en velero al atardecer",
+          "precio": 50
+        },
+        {
+          "nombre": "Refugio de tortugas La Flor (julio a enero)",
+          "precio": 30
+        }
+      ],
+      "comida_dia": {
+        "economico": 10,
+        "medio": 20,
+        "confort": 40
+      },
+      "actividades_dia": 15
+    },
+    {
+      "id": "ometepe",
+      "nombre": "Isla de Ometepe",
+      "pais": "Nicaragua",
+      "tipo": "montana",
+      "alias": [
+        "isla de ometepe",
+        "ometepe"
+      ],
+      "resumen": "isla con dos volcanes dentro de un lago",
+      "descripcion": "Isla formada por los volcanes Concepción y Maderas en medio del lago Cocibolca. Tiene senderos, petroglifos, cascadas y pozas de agua natural.",
+      "mejor_epoca": "noviembre a abril (época seca)",
+      "hospedaje": [
+        {
+          "nivel": "economico",
+          "opcion": "Hostal o finca ecológica",
+          "precio": 12
+        },
+        {
+          "nivel": "medio",
+          "opcion": "Hotel con vista al volcán",
+          "precio": 45
+        },
+        {
+          "nivel": "confort",
+          "opcion": "Ecolodge frente al lago",
+          "precio": 100
+        }
+      ],
+      "transporte": {
+        "como_llegar": "Bus internacional de San Salvador a Managua, bus a Rivas y ferry de una hora desde el puerto de San Jorge.",
+        "tiempo": "15 horas aproximadamente",
+        "costo_ida_vuelta": 115
+      },
+      "actividades": [
+        {
+          "nombre": "Ascenso al volcán Maderas con guía",
+          "precio": 25
+        },
+        {
+          "nombre": "Poza natural Ojo de Agua",
+          "precio": 10
+        },
+        {
+          "nombre": "Kayak en el río Istián",
+          "precio": 25
+        },
+        {
+          "nombre": "Cascada San Ramón",
+          "precio": 5
+        }
+      ],
+      "comida_dia": {
+        "economico": 10,
+        "medio": 20,
+        "confort": 40
+      },
+      "actividades_dia": 15
+    },
+    {
+      "id": "granada",
+      "nombre": "Granada",
+      "pais": "Nicaragua",
+      "tipo": "ciudad",
+      "alias": [
+        "granada",
+        "las isletas"
+      ],
+      "resumen": "ciudad colonial de colores junto al lago",
+      "descripcion": "Ciudad colonial a orillas del lago Cocibolca, con casas de colores, su catedral amarilla y paseos en lancha por las isletas.",
+      "mejor_epoca": "noviembre a abril (época seca)",
+      "hospedaje": [
+        {
+          "nivel": "economico",
+          "opcion": "Hostal en casa colonial",
+          "precio": 12
+        },
+        {
+          "nivel": "medio",
+          "opcion": "Hotel colonial con piscina",
+          "precio": 50
+        },
+        {
+          "nivel": "confort",
+          "opcion": "Hotel boutique frente al parque central",
+          "precio": 120
+        }
+      ],
+      "transporte": {
+        "como_llegar": "Bus internacional de San Salvador a Managua y luego bus de una hora a Granada. También se puede volar a Managua.",
+        "tiempo": "12 a 13 horas por tierra",
+        "costo_ida_vuelta": 100
+      },
+      "actividades": [
+        {
+          "nombre": "Centro histórico, catedral y torre de La Merced",
+          "precio": 2
+        },
+        {
+          "nombre": "Paseo en lancha por Las Isletas",
+          "precio": 20
+        },
+        {
+          "nombre": "Visita nocturna al volcán Masaya",
+          "precio": 25
+        },
+        {
+          "nombre": "Día en la Laguna de Apoyo",
+          "precio": 15
+        }
+      ],
+      "comida_dia": {
+        "economico": 10,
+        "medio": 20,
+        "confort": 40
+      },
+      "actividades_dia": 15
+    },
+    {
+      "id": "tamarindo",
+      "nombre": "Tamarindo",
+      "pais": "Costa Rica",
+      "tipo": "playa",
+      "alias": [
+        "tamarindo",
+        "guanacaste"
+      ],
+      "resumen": "playa de surf y atardeceres en Guanacaste",
+      "descripcion": "Playa del Pacífico norte de Costa Rica, popular para aprender surf. Está junto al Parque Nacional Marino Las Baulas, zona de anidación de tortugas.",
+      "mejor_epoca": "diciembre a abril (época seca)",
+      "hospedaje": [
+        {
+          "nivel": "economico",
+          "opcion": "Hostal de surfistas",
+          "precio": 25
+        },
+        {
+          "nivel": "medio",
+          "opcion": "Hotel con piscina cerca de la playa",
+          "precio": 90
+        },
+        {
+          "nivel": "confort",
+          "opcion": "Resort frente al mar",
+          "precio": 200
+        }
+      ],
+      "transporte": {
+        "como_llegar": "Vuelo de San Salvador a Liberia o San José y luego shuttle o bus hacia Tamarindo.",
+        "tiempo": "medio día entre vuelo y traslado",
+        "costo_ida_vuelta": 330
+      },
+      "actividades": [
+        {
+          "nombre": "Clase de surf",
+          "precio": 50
+        },
+        {
+          "nombre": "Recorrido en bote por el estero",
+          "precio": 35
+        },
+        {
+          "nombre": "Catamarán al atardecer",
+          "precio": 90
+        },
+        {
+          "nombre": "Tour de anidación de tortugas (octubre a marzo)",
+          "precio": 45
+        }
+      ],
+      "comida_dia": {
+        "economico": 20,
+        "medio": 40,
+        "confort": 70
+      },
+      "actividades_dia": 35
+    },
+    {
+      "id": "monteverde",
+      "nombre": "Monteverde",
+      "pais": "Costa Rica",
+      "tipo": "montana",
+      "alias": [
+        "monteverde",
+        "santa elena"
+      ],
+      "resumen": "bosque nuboso, puentes colgantes y canopy",
+      "descripcion": "Zona de bosque nuboso en la cordillera de Tilarán, conocida por sus reservas naturales, puentes colgantes, canopy y avistamiento de aves como el quetzal.",
+      "mejor_epoca": "diciembre a abril (época seca)",
+      "hospedaje": [
+        {
+          "nivel": "economico",
+          "opcion": "Hostal en Santa Elena",
+          "precio": 20
+        },
+        {
+          "nivel": "medio",
+          "opcion": "Hotel de montaña con desayuno",
+          "precio": 80
+        },
+        {
+          "nivel": "confort",
+          "opcion": "Lodge dentro del bosque",
+          "precio": 180
+        }
+      ],
+      "transporte": {
+        "como_llegar": "Vuelo de San Salvador a San José y luego bus o shuttle de 3 a 4 horas hacia Monteverde.",
+        "tiempo": "un día entre vuelo y traslado",
+        "costo_ida_vuelta": 310
+      },
+      "actividades": [
+        {
+          "nombre": "Reserva Biológica Bosque Nuboso",
+          "precio": 26
+        },
+        {
+          "nombre": "Puentes colgantes",
+          "precio": 40
+        },
+        {
+          "nombre": "Canopy",
+          "precio": 60
+        },
+        {
+          "nombre": "Caminata nocturna con guía",
+          "precio": 30
+        }
+      ],
+      "comida_dia": {
+        "economico": 20,
+        "medio": 40,
+        "confort": 70
+      },
+      "actividades_dia": 35
+    },
+    {
+      "id": "san_jose",
+      "nombre": "San José",
+      "pais": "Costa Rica",
+      "tipo": "ciudad",
+      "alias": [
+        "san jose",
+        "san jose costa rica"
+      ],
+      "resumen": "capital con museos y volcanes cercanos",
+      "descripcion": "Capital de Costa Rica, con el Teatro Nacional, el Museo del Oro Precolombino y el Mercado Central. Sirve de base para visitar volcanes como el Irazú y el Poás.",
+      "mejor_epoca": "diciembre a abril (época seca)",
+      "hospedaje": [
+        {
+          "nivel": "economico",
+          "opcion": "Hostal céntrico",
+          "precio": 18
+        },
+        {
+          "nivel": "medio",
+          "opcion": "Hotel de ciudad con desayuno",
+          "precio": 70
+        },
+        {
+          "nivel": "confort",
+          "opcion": "Hotel de cadena con piscina",
+          "precio": 150
+        }
+      ],
+      "transporte": {
+        "como_llegar": "Vuelo directo desde San Salvador. Por tierra hay bus internacional que cruza Honduras y Nicaragua.",
+        "tiempo": "1 hora y media en avión",
+        "costo_ida_vuelta": 280
+      },
+      "actividades": [
+        {
+          "nombre": "Teatro Nacional",
+          "precio": 10
+        },
+        {
+          "nombre": "Museo del Oro Precolombino",
+          "precio": 15
+        },
+        {
+          "nombre": "Almuerzo en el Mercado Central",
+          "precio": 8
+        },
+        {
+          "nombre": "Excursión al volcán Irazú o Poás",
+          "precio": 50
+        }
+      ],
+      "comida_dia": {
+        "economico": 20,
+        "medio": 40,
+        "confort": 70
+      },
+      "actividades_dia": 25
+    }
+  ]
+}
